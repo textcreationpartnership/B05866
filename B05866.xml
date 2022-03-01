@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short representation performed before the Lord Generall Monck. at Goldsmiths-hall, Tuesday, Aprill 11th. By three persons, an English-man, a Welsh-man, and a Scotch-man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05866</idno>
+            <idno type="STC">Wing S3627</idno>
+            <idno type="STC">ESTC R184214</idno>
+            <idno type="EEBO-CITATION">51784670</idno>
+            <idno type="OCLC">ocm 51784670</idno>
+            <idno type="VID">175074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175074)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short representation performed before the Lord Generall Monck. at Goldsmiths-hall, Tuesday, Aprill 11th. By three persons, an English-man, a Welsh-man, and a Scotch-man.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Morgan ...,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1603-1714 --  Drama --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175074:1"/>
+            <pb facs="tcp:175074:1" rendition="simple:additions"/>
+            <p>A ſhort REPRESENTATION Performed before The Lord Generall MONCK.</p>
+            <p>AT <hi>GOLDSMITHS-HALL, Tueſday, Aprill</hi> 11th.</p>
+            <p>By three perſons, An Engliſh-man, a Welſh-man, and a Scotch-man.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Morgan,</hi> and are to be ſold at the Royal Exchange in <hi>Cornhill,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:175074:2"/>
+            <pb n="3" facs="tcp:175074:2"/>
+            <head>A ſhort Repreſentation.</head>
+            <sp>
+               <speaker>OFFICER.</speaker>
+               <p>HOW now Friended whither are you crowding ſo faſt? Pray get ye back a<g ref="char:EOLhyphen"/>gain and wipe your ſhoos? Who invi<g ref="char:EOLhyphen"/>ted you I wonder? If y'are a hungry, ſtay till the Scraps come forth, which will be about four or five hours hence.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>Pray good man <hi>Jack kold my ſtaffe,</hi> be good, in your Office. <hi>Sirrah,</hi> We come to ſee the <hi>General;</hi> we have as much buſineſſe with him as the beſt of 'um all that has invited him hither.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>Hee'l hear no petitions to day.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>Petition, we come not to Petition, <hi>Friend,</hi> he has done our buſineſſe without a Petition already.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>He had much to do I warrant, when he did your buſineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>Friend you need not be ſo Angry; we come not to defraud you of the leaſt bit, that you intend to carry home to your Wife, for her pro<g ref="char:EOLhyphen"/>viſion till the next quarter Feaſt; For give me leave to tell thee, we have been as good Houſe keepers as ſome of your Maſters, and kept better men then thou to wipe our ſhoos, &amp; now I hope we ſhall do ſo <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gain.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>You are ſufferers then in the times. Her's one I warrant whoſe <hi>Catt</hi> has dy'd with eating
+<pb n="4" facs="tcp:175074:3"/>a poyſoned <hi>Ratt.</hi> Her's another who's two <hi>Ducks</hi> and one <hi>Drake</hi> uſed to ſleep at his beds head, and he has now loſt all by the Maledictions of the old witch his Neighbour. Her's another had but one torn Shirt, which was ſtollen by a <hi>Gypſie</hi> as it hung upon a Hedge a drying, one <hi>Saturday</hi> in the Afternoon. And as for your part Good-man <hi>Prate a pace</hi> what have you loſt I wonder? your Dogs Leather Hedg<g ref="char:EOLhyphen"/>ing Gloves I warrant, or ſome ſuch precious piece of Treaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>The fellow would fain be witty be<g ref="char:EOLhyphen"/>fore the Maſters of the Company. Alas! it would ſtand thee in little ſtead had we a mind to Retort; but that is not our buſineſſe. We are come to make our General Merry; for making us merry. Sirrah, we have been at charges for a <hi>Pawet,</hi> and the Fidlers, and therefore I tell thee we will ſee our General, and ſing him a ſong and give him thanks for his care of us all.</p>
+            </sp>
+            <sp>
+               <speaker>Welchman.</speaker>
+               <p>Sirrah if her will not let her ſee her Sheneral, and ſing her a fine ſong, which her ha pay'd her ſhare for the making, her will preak her puſee po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie's pate.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>I care not for your ſongs, you come not here unleſſe I know better who you are.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>Friend I am a <hi>Cheſhire</hi> man, who had loſt my tenure of a good Farm for ſiding with my Land-Lord Sir <hi>George Booth;</hi> but I now have got it again, thanks to our General.</p>
+            </sp>
+            <sp>
+               <speaker>Welchman.</speaker>
+               <p>And her pe Shentleman of <hi>Wallis,</hi> and her loſt her create fortune for her creat loofe to her creat Land-Lord Sir <hi>Thomas Middleton;</hi> but her have cot it a cain. her thank her cood Sheneral.</p>
+            </sp>
+            <pb n="5" facs="tcp:175074:3"/>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>In troath noow they had gotten een aw; &amp; aw for becoſe Iſe ha ſarved my gude Loard and Maiſſer the KING. But whare be thoſe muckle traitors noow? introath friend wee's come for nething elſe but to garr the General take notice of our loove, tell him for his muckle paines and care of us and of aw the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>Well, ſtay there, and if the Generall will be troubled with your impertiaencies, ile give ye notice.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <p>Now thou ſpeakſt like an honeſt fel<g ref="char:EOLhyphen"/>low; doſt heare? if thou canſt but get us in, wee'l give thee ſix pence a piece.</p>
+               <p>After a little pauſe the Officer returns.</p>
+            </sp>
+            <sp>
+               <speaker>Officer.</speaker>
+               <p>Wel, if your Song be good, you may come in; but be advis'd of that; for if it ben't you'l be ſoundly ſoundly laught at; and for your Poet, tell him from me, if he come off baſely, the <hi>Company</hi> will not give him a braſs token; and ſo you I loſe your Credit and he his labour.</p>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <stage>To the Tune of, <hi>The Grecian Army.</hi>
+               </stage>
+               <l>No more good people, talk no more</l>
+               <l>Of what the Champion did of yore;</l>
+               <l>I care not a pin what ſtories forge</l>
+               <l>Of <hi>Bevis</hi> or of Great St. <hi>George,</hi>
+               </l>
+               <l>Who Dragon did ſlaughter</l>
+               <l>To get the Kings fair daughter</l>
+               <l>For his wife;</l>
+               <l>Which was truly</l>
+               <l>And moſt duly</l>
+               <l>The braveſt thing he did in his life.</l>
+            </sp>
+            <pb n="6" facs="tcp:175074:4"/>
+            <sp>
+               <speaker>Scotchman.</speaker>
+               <stage>To the <hi>Highlanders New Rant.</hi>
+               </stage>
+               <l>Nor I'ſe ne care at aw</l>
+               <l>For Kiuntry man St. <hi>Aundrew,</hi>
+               </l>
+               <l>Although he ware as gude a ſwerd</l>
+               <l>As ever muckle man drew;</l>
+               <l>For though he did redum</l>
+               <l>The Ladies fair and breeght</l>
+               <l>Yet had the ſwains bin ſtill</l>
+               <l>But for gude <hi>Willy</hi>'s Leeght.</l>
+               <l>Away then,</l>
+               <l>Stay not,</l>
+               <l>What gare's us be ſilent?</l>
+               <l>Wee'l feaſt our <hi>Monk,</hi> though now it be high <hi>Lent.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Welſhman.</speaker>
+               <stage>To the Tune of, <hi>Fortune, &amp;c.</hi>
+               </stage>
+               <l>Nor for our old St. <hi>Taffie</hi> to I care,</l>
+               <l>Who ſlew a mighty ſhyant without laughter;</l>
+               <l>Yet for th'exceſſive pains he tooke that tay,</l>
+               <l>
+                  <hi>Fullfaſt</hi> He ſleeped ſeaven whole years after.</l>
+            </sp>
+            <sp>
+               <speaker>Engliſhman.</speaker>
+               <stage>To the Tune of, <hi>What you pleaſe.</hi>
+               </stage>
+               <l>But our St. <hi>George</hi> hath ſet us free</l>
+               <l>From a baſe <hi>Rumps</hi> bold ſlavery</l>
+               <l>Poor <hi>England</hi> now ſhall bleed no more;</l>
+            </sp>
+            <sp>
+               <speaker>Welſhman.</speaker>
+               <p>And <hi>Wallis</hi> ſal pe as her was before.</p>
+            </sp>
+            <sp>
+               <speaker>Scotchman.</speaker>
+               <l>The War in <hi>Scotland</hi> firſt did ſwagger,</l>
+               <l>But there firſt ends, <hi>Jemmy</hi> put up thy dagger.</l>
+               <stage>To the Tune of, <hi>The Grecian Army</hi>
+               </stage>
+               <l>You baſe Exciſemen and Commitee's as before.</l>
+               <l>That ſwaggerd over Towns and City's,</l>
+               <pb n="7" facs="tcp:175074:4"/>
+               <l>(While the ſad Ploughmen plough'd in grief,</l>
+               <l>And yet poor Swains had no relief,)</l>
+               <l>Muſt now go down</l>
+               <l>And ſtoop to th'abuſed Clown;</l>
+               <l>For like the Sun</l>
+               <l>In his glory,</l>
+               <l>In his ſtory,</l>
+               <l>
+                  <hi>Monk</hi> is reſolv'd not to be out don.</l>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <stage>To the Tune of, <hi>The Highlanders New Rant</hi> as before.</stage>
+               <l>A Out out away Phanaticks,</l>
+               <l>Who ken not what yee'd have;</l>
+               <l>Your <hi>Plots</hi> be aw diſcover'd</l>
+               <l>The Nation to enſlave;</l>
+               <l>Our Cities now ne mere ſhall pay</l>
+               <l>The hire of their Fetters;</l>
+               <l>Ne mere ſhall <hi>Major Generals</hi>
+               </l>
+               <l>Now rant it ore their betters;</l>
+               <l>For <hi>Monk's</hi> come,</l>
+               <l>That <hi>Monck</hi>
+               </l>
+               <l>Whom all men prize,</l>
+               <l>To heal up all our paſt Maladies.</l>
+            </sp>
+            <sp>
+               <speaker>Welſhman</speaker>
+               <stage>To the tune of, <hi>Fortune.</hi>
+               </stage>
+               <l>And now her toſted Cheeze, her eat and Sing,</l>
+               <l>And freely drink a health unto her King:</l>
+               <l>Ap <hi>Thomas</hi> ap <hi>Middleton</hi> give me thy hand</l>
+               <l>For now our Siſter <hi>Cheſter</hi>'s Walls ſhall ſtand.</l>
+               <pb n="8" facs="tcp:175074:5"/>
+               <lg>
+                  <head>Chorus.</head>
+                  <stage>To the Tune, <hi>Q. Dido.</hi>
+                  </stage>
+                  <l>Brave <hi>Hero,</hi> then in thy brave rage</l>
+                  <l>Proceed, which hath raiſ'd up our Age,</l>
+                  <l>To ſay you were from Heaven let down</l>
+                  <l>To give the wronged Heir his Crown,</l>
+                  <l>For well the wayes of truth you take</l>
+                  <l>The ballance even now to make.</l>
+               </lg>
+               <lg>
+                  <l>All our long differences <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>end</l>
+                  <l>Already to a ſetled end</l>
+                  <l>For which we now muſt all agree</l>
+                  <l>To give the ſtile of juſt to thee.</l>
+                  <l>Bequeathing unto, to after Story</l>
+                  <l>The care of thy unblemiſh't Glory.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175074:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
